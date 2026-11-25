@@ -1,0 +1,178 @@
+{
+  "best_config": {
+    "upscale": 1,
+    "denoise": "median",
+    "threshold": "none",
+    "deskew": false,
+    "psm": 6,
+    "lang": "vie"
+  },
+  "subset_char_accuracy": 0.9978510334923004,
+  "full_result": {
+    "char_accuracy": 0.996946843203611,
+    "word_accuracy": 0.9862019230769231,
+    "per_variant": {
+      "clean": 0.9952947211158371,
+      "light": 0.9975392194480831,
+      "heavy": 0.9974840217944608,
+      "lowres": 0.9974694104560623
+    },
+    "n": 80
+  },
+  "history": [
+    {
+      "round": 0,
+      "param": "baseline",
+      "value": null,
+      "char_accuracy": 0.9943338854959825,
+      "cfg": {
+        "upscale": 2,
+        "denoise": "none",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 1,
+      "param": "upscale",
+      "value": 1,
+      "char_accuracy": 0.9966463336279004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "none",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 1,
+      "param": "denoise",
+      "value": "median",
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 1,
+      "param": "threshold",
+      "value": "none",
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 1,
+      "param": "deskew",
+      "value": false,
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 1,
+      "param": "psm",
+      "value": 6,
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 2,
+      "param": "upscale",
+      "value": 1,
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 2,
+      "param": "denoise",
+      "value": "median",
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 2,
+      "param": "threshold",
+      "value": "none",
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 2,
+      "param": "deskew",
+      "value": false,
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    },
+    {
+      "round": 2,
+      "param": "psm",
+      "value": 6,
+      "char_accuracy": 0.9978510334923004,
+      "cfg": {
+        "upscale": 1,
+        "denoise": "median",
+        "threshold": "none",
+        "deskew": false,
+        "psm": 6,
+        "lang": "vie"
+      }
+    }
+  ]
+}

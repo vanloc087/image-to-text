@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# File Word tạo ra khi chạy thử nghiệm, không phải mã nguồn
+*.docx
+test_sample.png
+
+# Ảnh thật lấy từ internet để kiểm chứng + bản chép tay nội dung đầy đủ:
+# chứa thông tin thật của bên thứ ba (tên công ty, MST, số điện thoại...)
+# nên không đưa lên repo công khai. Giữ lại tune_log.md (chỉ ghi kết quả/bài học).
+real_samples/*.jpg
+real_samples/*.jpeg
+real_samples/*.png
+real_samples/sample3_ground_truth.txt
